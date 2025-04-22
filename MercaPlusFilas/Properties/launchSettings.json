@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MercaPlusFilas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
